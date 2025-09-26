@@ -1,16 +1,40 @@
-# React + Vite
+## Integrations and References
+- [Automate API Docs with GitHub Actions & OpenAPI](https://www.freecodecamp.org/news/how-to-automate-api-documentation-updates-with-github-actions-and-openapi-specifications/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Geospatial & Data APIs
+- [CKAN API Docs](https://docs.ckan.org/en/2.11/api/index.html)
+- [Catalog Data.gov API](https://catalog.data.gov/api/3)(header)
+- [NASA Data API](https://data.nasa.gov/api/3)(header)
+- [NASA Public API](https://api.nasa.gov/)
+- [NASA PDS API Guide](https://nasa-pds.github.io/pds-api/guides/search.html)
+- [NASA NTRS OpenAPI](https://ntrs.nasa.gov/api/openapi/#/)
+- [Earthdata OpenDAP](https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/opendap)
 
-Currently, two official plugins are available:
+### Visualization & Monitoring
+- Grafana: [Add New Connection](http://localhost:3000/connections/add-new-connection)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### NASA & Space
+- [CCMC NASA Models](https://ccmc.gsfc.nasa.gov/models/?services=Runs-on-Request&statuses=Production&statuses=Result+Only)
+- [Earthdata](https://earthdata.nasa.gov)
 
-## React Compiler
+### CoPilot and Training
+- [Learn MCP Server](https://learn.microsoft.com/en-us/training/support/mcp)
+- [Learn MCP Server Catalog API](https://learn.microsoft.com/en-us/training/support/catalog-api-developer-reference)
+- [CopilotKit Agent Apps Guide](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Quantum & Algorithms
+- [Grover's Algorithm (Azure Quantum)](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers)
 
-## Expanding the ESLint configuration
+### Satellite & Communications
+- [Globalstar](https://www.globalstar.com/en-us)
+- [Iridium](https://www.iridium.com/)
+- [Starlink]
+- [Kuiper]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+### Other
+- [Transportation & Emerging Tech](https://www.transportation.gov/new-and-emerging-technologies)
+- [Data.gov](https://data.gov)
+
+---

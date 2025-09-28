@@ -1,3 +1,5 @@
+next.js/npx copilotkit@latest/add saturn proj as components/add services to next.js and saturn projs
+
 # Billing
 - gmaps 3d modeling $500/m
 - arcgis $$$/m

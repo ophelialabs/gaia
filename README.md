@@ -1,3 +1,5 @@
+**Combine with Globe repo**
+
 cloud.copilotkit/next.js/npx copilotkit@latest/openai_api_key/langchain, langsmith_api_key/add saturn proj as components to next.js app/add services to next.js and saturn projs
 
 # Billing
